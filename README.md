@@ -1,0 +1,2 @@
+# Movie Database
+CineSearch is a dynamic, responsive web application that allows users to explore a vast database of films in real-time. Built with a focus on clean UI and seamless performance, it leverages the OMDb API to fetch movie data, posters, and release years. The app features a persistent Dark/Light mode toggle, ensuring a comfortable viewing experience that remembers user preferences even after a page refresh.
