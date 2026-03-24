@@ -2,8 +2,6 @@
 
 A sleek, modern movie search engine built with Vanilla JavaScript, CSS3, and HTML5. 
 
-![Project Screenshot](preview.png)
-
 ## ✨ Features
 * **Real-time Search:** Fetches movie data dynamically from the OMDb API.
 * **Theme Toggle:** Smooth transition between Dark and Light modes.
