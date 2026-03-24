@@ -20,7 +20,7 @@ A sleek, modern movie search engine built with Vanilla JavaScript, CSS3, and HTM
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/cinesearch.git](https://github.com/your-username/cinesearch.git)
+   git clone [https://github.com/krishmewati2006-design/cinesearch.git](https://krishmewati2006-design.github.io/Movie-Database/)
 2. Open index.html in your browser.
 
 3. Note: You will need your own API Key from OMDb to fetch live data.
